@@ -20,7 +20,7 @@
 
 ## 🚀 About the Project
 
-**Chatify** is a modern **full-stack real-time chat application** built with performance, security, and user experience in mind.  
+ a modern **full-stack real-time chat application** built with performance, security, and user experience in mind.  
 It supports **JWT authentication**, **real-time messaging**, **email automation**, and a **beautiful responsive UI**.
 
 ---
@@ -89,5 +89,6 @@ ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
 
 ---
+
 
 
