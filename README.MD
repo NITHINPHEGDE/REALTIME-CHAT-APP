@@ -1,4 +1,4 @@
-<h1 align="center">💬 Chatify — Real-Time Full-Stack Chat Application</h1>
+<h1 align="center">💬 Real-Time Full-Stack Chat Application</h1>
 
 <p align="center">
   <b>Secure • Real-time • Scalable • Modern UI</b>
@@ -89,4 +89,5 @@ ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
 
 ---
+
 
