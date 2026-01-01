@@ -27,18 +27,18 @@ It supports **JWT authentication**, **real-time messaging**, **email automation*
 
 ## ✨ Key Features
 
-- 🔐 **Custom JWT Authentication** (No 3rd-party auth)
-- ⚡ **Real-Time Messaging** using Socket.io
-- 🟢 **Live Online / Offline Presence**
-- 🔔 **Typing & Notification Sounds** (Toggle supported)
-- 📨 **Automated Welcome Emails** (Resend)
-- 🗂️ **Image Uploads** via Cloudinary
-- 🚦 **API Rate Limiting** with Arcjet
-- 🧰 **RESTful API** with Node.js & Express
-- 🧱 **MongoDB** for persistent data storage
-- 🎨 **Modern UI** using React, Tailwind CSS & DaisyUI
-- 🧠 **Zustand** for global state management
-- 🚀 **Production-ready deployment** (Free-tier friendly)
+- 🔐 Custom JWT Authentication (No 3rd-party auth)
+- ⚡ Real-Time Messaging using Socket.io
+- 🟢 Live Online / Offline Presence
+- 🔔 Typing & Notification Sounds (Toggle supported)
+- 📨 Automated Welcome Emails (Resend)
+- 🗂️ Image Uploads via Cloudinary
+- 🚦 API Rate Limiting with Arcjet
+- 🧰 RESTful API with Node.js & Express
+- 🧱 MongoDB for persistent data storage
+- 🎨 Modern UI with React, Tailwind CSS & DaisyUI
+- 🧠 Zustand for global state management
+- 🚀 Production-ready (Free-tier friendly)
 
 ---
 
@@ -57,9 +57,9 @@ It supports **JWT authentication**, **real-time messaging**, **email automation*
 - MongoDB + Mongoose
 - Socket.io
 - JWT Authentication
-- Arcjet (Rate Limiting)
+- Arcjet
 - Cloudinary
-- Resend (Emails)
+- Resend
 
 ---
 
@@ -87,3 +87,5 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
+
+
