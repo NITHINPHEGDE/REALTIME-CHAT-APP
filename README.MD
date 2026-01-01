@@ -90,22 +90,3 @@ ARCJET_ENV=development
 
 ---
 
-## ▶️ Running the Application
-
-###🔧 Start Backend Server
-
-```env
-cd backend
-npm install
-npm run dev
-
----
-
-###💻 Start Frontend Client
-
-```env
-cd frontend
-npm install
-npm run dev
-
-
